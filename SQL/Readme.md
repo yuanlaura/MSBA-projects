@@ -1,3 +1,3 @@
-Course Name: Fundamentals of SQL
-Period: Winter 2021
+Course Name: Fundamentals of SQL  
+Period: Winter 2021  
 Project Name: Netflix Analysis 
