@@ -6,7 +6,7 @@ Coding Language: SQL
 This project was completed for a Fundamentals of SQL course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. In this project, we have explored the ways in which Netflix can use SQL to achieve certain business objectives (using pseudo data).
 
 Brief Explanation of Files/Folders Included:
-- Netflix Project Proposal.pdf: The project proposal includes a brief introduction of Netflix, our objectives for the project, and an explanation of the pseudo data we have created
+- Netflix Analysis Final Report.pdf: The final report includes the project proposal, screenshots of the data, and SQL codes used for the project.
 - Netflix SQL Presentation.pdf: Powerpoint slides of Netflix analysis presentation
 - Pseudo_Netflix_Data.xlsx: Pseudo Netflix data created by our team for the purpose of this project
 
