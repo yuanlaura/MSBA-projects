@@ -3,7 +3,7 @@ Period: Spring 2021
 Project Name: COVID Vaccine Analysis   
 Coding Language(s): Python
 
-This project was completed for a Natural Language Processing (NLP) course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. In this project, we have performed a comprehensive analysis on various COVID vaccine brands, including a sentiment analysis of tweets regarding each vaccine brand over time. 
+This project was completed for a Natural Language Processing (NLP) course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. In this project, we have performed a comprehensive analysis on the different COVID vaccine brands (Pfizer, J&J, and Moderna) over different U.S. states, including a sentiment analysis of tweets regarding each vaccine brand over time. 
 
 Brief Explanation of Files/Folders Included:
 
