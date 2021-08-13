@@ -7,7 +7,7 @@ This project was completed for a Natural Language Processing (NLP) course at San
 
 Brief Explanation of Files/Folders Included:
 
-* Vaccine_Sentiment_Analysis.html: This report details all the codes used for data cleaning, data exploration, regression analysis, and sentiment analysis
+* Vaccine_Sentiment_Analysis.pdf: This report details all the Python codes used for data cleaning, data exploration, regression analysis, and sentiment analysis with printed outputs
 * Vaccine_Sentiment_Analysis_Presentation.pdf: This is the final presentation slide deck and includes screenshots of codes and summary of findings
 
 Other Contributors: Yue Ma, Yining Ou
