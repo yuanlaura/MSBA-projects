@@ -1,7 +1,7 @@
-> Course Name: Data Analytics with Python
-Period: Fall 2020
-Project Name: Google Play Store Apps Analysis
-Coding Language(s): Python  
+> Course Name: Data Analytics with Python  
+Period: Fall 2020  
+Project Name: Google Play Store Apps Analysis   
+Coding Language(s): Python   
 
 This project was completed for a Data Analytics with Python course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. The goal of the project was to explore which categories, applications, and developers are currently popular in the market. In order to do so, we analyzed Google Play store and Apple App store data in order to evaluate the trends in the app market.¶
 
