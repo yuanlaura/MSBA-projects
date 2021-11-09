@@ -1,3 +1,5 @@
+# MSBA Projects
+
 These projects were completed for courses at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. The folders are organized by course name, further details regarding the project will be annotated in the README of each folder.
 
 Listed below are the general topics that are covered throughout these projects:
