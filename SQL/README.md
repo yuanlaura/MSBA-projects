@@ -1,6 +1,7 @@
+# Netflix SQL Analysis
+
 > Course Name: Fundamentals of SQL  
 Period: Winter 2021  
-Project Name: Netflix Analysis  
 Coding Language: SQL
 
 This project was completed for a Fundamentals of SQL course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. In this project, we have explored the ways in which Netflix can use SQL to achieve certain business objectives (using pseudo data).
