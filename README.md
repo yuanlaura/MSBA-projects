@@ -11,7 +11,7 @@ Please note that these projects were completed as a group with other contributor
 
 ## Directory  
 1. [Analytics for Finance](https://github.com/yuanlaura/MSBA-projects/tree/main/Analytics-for-Finance): Cryptocurrency Analysis
-2. [Dashboards](https://github.com/yuanlaura/MSBA-projects/tree/main/Dashboards): Kickstarter Tableau Dashboard
+2. [Dashboards](https://github.com/yuanlaura/MSBA-projects/tree/main/Dashboards): Tableau Dashboard Projects
 3. [Data Analytics with Python](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python): Google Playstore Analysis
 4. [Econometrics with R](https://github.com/yuanlaura/MSBA-projects/tree/main/Econometrics-with-R): Unemployment Analysis in the U.S. (2000-2019)
 5. [Natural Language Processing](https://github.com/yuanlaura/MSBA-projects/tree/main/Natural-Language-Processing): COVID Vaccine Sentiment Analysis
