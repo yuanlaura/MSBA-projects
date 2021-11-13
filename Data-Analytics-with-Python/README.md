@@ -5,7 +5,7 @@ Period: Fall 2020
 Coding Language(s): Python   
 
 ## Description
-This project was completed for a Data Analytics with Python course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. The goal of the project was to explore which categories, applications, and developers are currently popular in the market. In order to do so, we analyzed Google Play store and Apple App store data to evaluate trends in the app market.
+This project was completed for a Data Analytics with Python course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. The goal of the project was to explore which categories, applications, and developers are currently popular in the applications market. In order to do so, we analyzed Google Play store and Apple App store data to evaluate trends in the app market.
 
 
 ## Explanation of Files Included
