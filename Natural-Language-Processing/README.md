@@ -10,7 +10,7 @@ This project was completed for a Natural Language Processing (NLP) course at San
 
 ## Explanation of Files Included
 
-* **Vaccine_Analysis_Notebook.ipynb:** This report details all the Python codes used for data cleaning, data exploration, regression analysis, and sentiment analysis for various COVID vaccines with printed outputs
+* **Vaccine_Analysis_Notebook.ipynb:** This report details all the Python codes used for data cleaning, data exploration, regression analysis, and sentiment analysis for various COVID vaccines with printed outputs [(View Notebook in NBviewer)](https://nbviewer.org/github/yuanlaura/MSBA-projects/blob/main/Natural-Language-Processing/Vaccine_Analysis_Notebook.ipynb)
 * **Vaccine_Analysis_Code.pdf:** Exported PDF version of Jupyter Notebook report
 * **Vaccine_Analysis_Presentation.pdf:** This is the final presentation slide deck and includes screenshots of codes and summary of findings
 
