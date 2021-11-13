@@ -12,7 +12,7 @@ Please note that these projects were completed as a group with other contributor
 ## Directory  
 1. [Cryptocurrency Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Analytics-for-Finance)
 2. [Tableau Dashboard Projects](https://github.com/yuanlaura/MSBA-projects/tree/main/Dashboards)
-3. [Google Playstore Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python)
+3. [Google Play store & Apple App store Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Data-Analytics-with-Python)
 4. [Unemployment Analysis in the U.S. (2000-2019)](https://github.com/yuanlaura/MSBA-projects/tree/main/Econometrics-with-R)
 5. [COVID Vaccine Sentiment Analysis](https://github.com/yuanlaura/MSBA-projects/tree/main/Natural-Language-Processing)
 6. [Netflix Analysis (Pseudo-data)](https://github.com/yuanlaura/MSBA-projects/tree/main/SQL)
