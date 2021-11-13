@@ -9,7 +9,7 @@ This project was completed for a Data Analytics with Python course at Santa Clar
 
 
 ## Explanation of Files Included
-- **Playstore_Analysis_Notebook.ipynb:** Includes all Python codes used in the analysis (data cleaning, analysis, graphs) [View Notebook in NBviewer](https://nbviewer.org/github/yuanlaura/MSBA-projects/blob/main/Data-Analytics-with-Python/Playstore_Analysis_Notebook.ipynb)
+- **Playstore_Analysis_Notebook.ipynb:** Includes all Python codes used in the analysis (data cleaning, analysis, graphs) [(View Notebook in NBviewer)](https://nbviewer.org/github/yuanlaura/MSBA-projects/blob/main/Data-Analytics-with-Python/Playstore_Analysis_Notebook.ipynb)
 - **Playstore_Analysis_Presentation.pdf:** Final project presentation slide decks
 
 ______
