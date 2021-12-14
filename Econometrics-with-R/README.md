@@ -9,8 +9,7 @@ Coding Language: R
 This project was completed for an Econometrics with R course at Santa Clara University as part of the Master of Science in Business Analytics (MSBA) program. In this project, we have explored various economic, social, and geographical factors and their relationship with unemployment rates in the United States from 2000-2019.
 
 ## Explanation of Files Included
-- Cleaning_Codes.Rmd : R code used for cleaning the raw datasets
-- Unemployment_Analysis_RCode.Rmd : R code used for the project (includes graphs, regression models with explanation)
+- Unemployment_Analysis_RCode.pdf : R code used for the project (includes graphs, regression models with explanation)
 - Unemployment_Analysis.pdf : Final project paper (includes graphs, regression models with analysis and conclusions)
 
 ___
